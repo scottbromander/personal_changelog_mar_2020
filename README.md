@@ -16,7 +16,7 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 🏋️‍- Exercise or Stretch - Every Day
 - 📚- Reading - Every Day
 - ✝️ - Devotional - Every Day
-- 💻- Code - Either building new growth platform or allocating time to learn GraphQL, TS/React, or React Native - Every Day
+- 💻- Code - Building or Learning: GraphQL, TS/React, or React Native - Every Day
 
 ---
 
