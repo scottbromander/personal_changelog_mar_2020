@@ -11,6 +11,13 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 💻- Code - Building / Learning
 - 📚- Reading
 
+### Goals
+- 🍎- Clean Eating! Using [Noom](https://www.noom.com/) - Every Day
+- 🏋️‍- Exercise or Stretch - Every Day
+- 📚- Reading - Every Day
+- ✝️ - Devotional - Every Day
+- 💻- Code - Either building new growth platform or allocating time to learn GraphQL, TS/React, or React Native - Every Day
+
 ---
 
 
