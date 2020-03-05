@@ -19,12 +19,18 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 💻- Code - Building or Learning: GraphQL, TS/React, or React Native - Every Day
 
 ---
+#### Wednesday, March 4th
+- 🍎- Clean Eating!
+- 🏋️‍- Exercise - Cardio
+- ✝️ - Devotional
+
 #### Tuesday, March 3rd
 - 🍎- Clean Eating!
 - 💻- Code! GraphQL
+- ✝️ - Devotional
 
 #### Monday, March 2nd
 - 📚 Reading, [Neuro-science and Critical Thinking](https://www.amazon.com/Neuroscience-Critical-Thinking-Understand-Expectations/dp/B07SHW8JW9/ref=sr_1_1?crid=1Z2LDNZJHPGCD&keywords=neuroscience+and+critical+thinking&qid=1583176784&sprefix=neuroscience+and+critica%2Caps%2C162&sr=8-1)
 - 🏋️‍- Chest / Back
 - 🍎- Clean Eating!
-- ✝️ - Study
+- ✝️ - Devotional
