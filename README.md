@@ -19,6 +19,12 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 💻- Code - Building or Learning: GraphQL, TS/React, or React Native - Every Day
 
 ---
+#### Thursday, March 5th
+- 🍎- Clean Eating!
+- 🏋️‍- Exercise - Walking (9400)
+- 💻- Code! GraphQL
+- ✝️ - Devotional
+
 #### Wednesday, March 4th
 - 🍎- Clean Eating!
 - 🏋️‍- Exercise - Cardio
